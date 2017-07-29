@@ -2,6 +2,7 @@
   "name": "react-4",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://matachunyan.io/react-3/build",
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
